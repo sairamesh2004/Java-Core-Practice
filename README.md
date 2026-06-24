@@ -1,2 +1,2 @@
 # Java-Core-Practice
-A collection of Core Java programs covering fundamentals, OOP, exception handling, packages, strings, and mini console applications.
+This repository contains Java programs created while learning Core Java concepts, ranging from fundamentals to object-oriented programming. The examples cover topics such as control flow, strings, exception handling, packages, inner classes, object cloning, and mini console applications.
